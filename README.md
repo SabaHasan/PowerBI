@@ -1,3 +1,3 @@
 # PowerBI
 
-Power BI Exercises and solutions
+Power BI exercises and solutions
